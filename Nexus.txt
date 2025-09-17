@@ -1,0 +1,1 @@
+This is pure automation code for nexus project of rule engine module and it is the finalised version
